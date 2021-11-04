@@ -35,7 +35,7 @@ Like a good brazilian I love soccer. 🇧🇷 ⚽
 
 ### Talk to me 📫
 
-You can find on  [![LinkedIn][1.2]][1]
+You can find me on  [![LinkedIn][1.2]][1]
 
 [1.2]:  https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
